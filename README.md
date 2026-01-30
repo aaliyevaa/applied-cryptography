@@ -1,8 +1,9 @@
 # Applied Cryptography
 
-Code implementations for university cryptography course.
+This repository contains cryptography implementations and exercises completed for IS204: Introduction to Cryptography.
 
 ## Structure
 - `assignments/` - Course assignments and homework
+  - Each assignment is organized in its own directory with implementation code and a README explaining the cryptographic concept and approach
 
-Assignments are organized sequentially and include implementation details and comments.
+
