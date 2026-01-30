@@ -6,4 +6,5 @@ This repository contains cryptography implementations and exercises completed fo
 - `assignments/` - Course assignments and homework
   - Each assignment is organized in its own directory with implementation code and a README explaining the cryptographic concept and approach
 
-
+## Tasks
+- [Task 01: One-Time Pad](assignments/task01/) - OTP encryption and decryption
