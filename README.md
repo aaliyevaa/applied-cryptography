@@ -8,3 +8,4 @@ This repository contains cryptography implementations and exercises completed fo
 
 ## Tasks
 - [Task 01: One-Time Pad](./assignments/task-01-otp/) - OTP encryption and decryption
+- [Task 02: GCD using Euclidean Algorithm](./assignments/task-02-gcd/) - Computing greatest common divisor
