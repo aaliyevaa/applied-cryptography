@@ -48,7 +48,7 @@ plain = input('Enter a message: ')
 a, b = map(int, input("Enter key  (x y): ").split())
 key = (a, b)
 if not key_validation(key):
-    print(f"Invalid key.\ngcd({b}, 26) must be 1")
+    print(f"Invalid key.\ngcd({a}, 26) must be 1")
 else:
     cipher = encrypt(plain,key)
     print('Encrpyted: ', cipher)
