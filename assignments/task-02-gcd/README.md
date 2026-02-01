@@ -5,8 +5,6 @@ This task implements the Euclidean Algorithm to compute the Greatest Common Divi
 
 The Euclidean Algorithm is one of the oldest algorithms in mathematics and is fundamental to many cryptographic operations, including finding modular multiplicative inverses and working with RSA encryption.
 
-## How It Works
-
 **Euclidean Algorithm**  
 The algorithm is based on the principle that:
 ```
@@ -25,11 +23,15 @@ gcd(48, 18)
 = 6
 ```
 
-## Implementation
+## Features
+- Recursive implementation
+- Handles edge cases (zero values)
+
+  
+## How it works
 The function uses recursion:
 - **Base cases:** If either number is 0, return the other number
 - **Recursive case:** Replace the larger number with the remainder of division
 
-## Features
-- Recursive implementation
-- Handles edge cases (zero values)
+
+
